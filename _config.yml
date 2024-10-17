@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xiaozhen Chen's website"
+title                    : "Xiaozhen Chen's Homepage"
 title_separator          : "-"
 name                     : &name "Xiaozhen Chen"
 description              : &description "personal description"
