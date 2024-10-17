@@ -15,7 +15,11 @@ If you are interested in my projects or just having a nice chat, please feel fre
 
 News
 ======
-[July/2023] We created the website for the first time
+[Jul/2023] We created the website for the first time.
+[Jan/2024] We post a research paper on [Atom substitution of the solid-state electrolyte Li10GeP2S12 for stabilized all-solid-state lithium metal batteries](https://www.sciencedirect.com/science/article/abs/pii/S2095495623005016) in *Journal of Energy Chemistry*
+[Jan/2024] We post a research paper on [Computational screening of 2D anode materials with robust thermal and electrical properties for lithium-ion batteries](https://www.sciencedirect.com/science/article/abs/pii/S2352152X23029754) in *Journal of Energy Storage*
+[Jul/2024] We post a research paper on [Uniaxial compressive strain along c-axis elevates the performance of LiMn2O4 cathode in lithium-ion batteries](https://www.sciencedirect.com/science/article/abs/pii/S2352152X2402084X) in *Journal of Energy Storage*
+
 
 Getting started
 ======
