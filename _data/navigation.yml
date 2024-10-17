@@ -11,11 +11,7 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Talk Slides"
-    url: /talkslides/
 
-  - title: "Blog Posts"
-    url: /blogposts/
     
   - title: "Guide"
     url: /markdown/

@@ -1,19 +1,21 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hi, I am Xiaozhen Chen ( 陈潇桢 )"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am currently advancing my academic journey at the School of Energy and Power Engineering, Huazhong University of Science and Technology in China. My research is under the dedicated supervision of Prof. Xiaobing Luo. Prior to this, I earned my Bachelor of Energy and Environmental Systems Engineering degree from Nanjing Normal University, in 2022, under the nurturing guidance of Prof. Chuanwen Zhao.
 
-A data-driven personal website
+My research primarily focuses on predicting superior lithium-ion battery materials using first principles, machine learning, molecular dynamics, and other research methods. I explore the factors influencing the performance of lithium-ion batteries from the atomic and electronic structure perspective. Based on inorganic solid electrolytes with high ionic conductivity and aided by machine learning methods, I modify inorganic solid electrolytes at the nanoscale using methods such as strain, doping, and vacancies to further increase ionic conductivity. This involves modulating the rate of lithium-ion diffusionmodulate lithium ion diffusion rates, migration energy barriers, and energy bands of inorganic solid electrolytes, ultimately establishing a correlation between the microstructure and macroscopic properties. In addition, I am also highly interested in the field of semiconductors and am eager to make substantial contributions in this area through my dedication and hard work.
+
+If you are interested in my projects or just having a nice chat, please feel free to email me (xzchensuper@gmail.com)! I am always happy to discuss with / learn from brilliant minds ^_^!
+
+News
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+[July/2023] We created the website for the first time
 
 Getting started
 ======
