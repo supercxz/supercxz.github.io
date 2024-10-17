@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Xiaozhen Chen"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "M.S., School of Energy and Power Engineering, Huazhong University of Science and Technology"
   location         : "China"
   employer         : "Huazhong University of Science and Technology"
   uri              : # URL
