@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "1.jpg"
   name             : "Xiaozhen Chen"
   pronouns         : # example: "she/her"  
   bio              : "M.S., School of Energy and Power Engineering, Huazhong University of Science and Technology"
