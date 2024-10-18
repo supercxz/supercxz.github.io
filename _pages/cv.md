@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,27 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Nanjing Normal University (NNU), September 2018 – June 2022
+* M.S. in Huazhong University of Science and Technology (HUST), September 2022
 
-Work experience
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* October 2021 – Present
+  * Research Assistant in Huazhong University of Science and Technology
+  * Mentor: **Prof.** Xiaobing Luo and **Prof.** Dongwei Xu
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September 2018 – June 2022
+  * Research Assistant in Nanjing Normal University
+  * Mentor: **Prof.** Chuanwen Zhao
   
+Selected Publications
+======
+  <ul>{% https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=Oq-tcS0AAAAJ&gmla=ALUCkoXQIWncHEnkekahaRkggACvo2zwu1sJyYpes0NGaxF9W_vrQDyo1WvXQv2Ud1xtGGjIcOYTy8neimsyJRS79fRoam3zKM-lG7ovRVX7tFeg8w# %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+
+
 Skills
 ======
 * Skill 1
@@ -41,11 +41,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Talks
 ======
@@ -59,6 +55,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
