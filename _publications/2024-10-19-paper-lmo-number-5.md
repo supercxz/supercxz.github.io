@@ -1,7 +1,7 @@
 ---
 title: "Uniaxial compressive strain along c-axis elevates the performance of LiMn2O4 cathode in lithium-ion batteries"
 collection: publications
-permalink: /publications/LMO
+permalink: /publications/2024-10-19-paper-lmo-number-5
 date: 2024-07-30
 venue: 'JES'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S2352152X2402084X'
