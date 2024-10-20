@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Curriculum Vitae
-======
+
+
 Education
 ======
 * B.S. in Nanjing Normal University (NNU), September 2017 – June 2021
@@ -41,27 +41,27 @@ Publications
 1. Zijing Wan, **Xiaozhen Chen**, Yilin Kang, Ziqi Zhou, Xiaoxue Jiang, Zheng Xiang, Dongwei Xu, Xiaobing Luo\*.  DComputational screening of 2D anode materials with robust thermal and electrical properties for lithium-ion batteries, *Journal of Energy Storage*, 2024, 75, 109577. [Linkage](https://www.sciencedirect.com/science/article/abs/pii/S2352152X23029754)  
 
 
-Skills
+Skills and Hobbies:
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Skills
+  * **Molecular modeling software:** VASP, LAMMPSM, aterials Studio
+  * **Instruments:** Proficiency in XRD, XRF, XPS, BET, SEM-EDS, TGA-DSC
+  * **Computer Skills:** Proficient in AIMD, NEB, Origin, CAD, Linux, Matlab
+  * **Computer programming languages:** Python, Java, C++ 
+* Hobbies  
+  * **Classical Chinese musical instruments：** Guzheng
+  * **Various ball games：** badminton：
 
-Talks
+
+
+
+
+Social Experience
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Academic Competition**, Energy Conservation and Emission Reduction Competition, NNU 
+  * Proposed a bionic tree design for CO2 capture and conversion, which won **the third prize at the national level**.
+  * *esigned a **human alveolar structure** to adsorb CO2.
+* **Teaching Assistant**, State Key Laboratory of Coal Combustion, HUST 
+  * versaw the experimental teaching, tutoring, Q&A and marking of engineering thermodynamics courses, serving over 50 students.
+
+
