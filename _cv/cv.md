@@ -50,28 +50,28 @@ Skills and Hobbies:
   * **Computer programming languages:** Python, Java, C++ 
 * Hobbies  
   * **Classical Chinese musical instruments：** Guzheng
-  * **Various ball games：** badminton：
+  * **Various ball games：** Badminton：
 
 
 # Awards:
 
 | Time | Items                                                        |
 | :--: | :----------------------------------------------------------- |
-| 2023 | 2nd  Zero carbon future innovation competition "Excellence Award" (16  out of 124) |
-| 2022 | Excellent  postgraduate of Huazhong University of Science and Technology (37 out of 216) |
-| 2022 | Weichai Power scholarship (**Top 1 in 216 students**)        |
+| 2024 | Three Good Students (student of the Year) **(1/30 students)** |
+| 2023 | Outstanding Student Cadre (Top 5%)  |
+| 2022 | Virtue Scholarship, NNU **(Top 1%)**  |
 | 2022 | First-class  scholarship of Huazhong University of Science and Technology (Top 10%) |
-| 2021 | Midea  scholarship (**Top 1 in 216 students**)               |
-| 2021 | First-class  scholarship of Huazhong University of Science and Technology (Top 10%) |
-| 2021 | National  outstanding undergraduate thesis of energy and power major 2021 (**China's highest undergraduate thesis  honor in this field**) |
+| 2022 | Excellent graduation thesis of Nanjing Normal University (Top 5%)  |
+| 2021 | College Student Person of the Year, NNU **(Top 1%)** |
+| 2021 | Tiangong Development Scholarship **(1/300 students)**, NNU |
 
 
 Social Experience
 ======
 * **Academic Competition**, Energy Conservation and Emission Reduction Competition, NNU 
   * Proposed a bionic tree design for CO2 capture and conversion, which won **the third prize at the national level**.
-  * *esigned a **human alveolar structure** to adsorb CO2.
+  * Designed a **human alveolar structure** to adsorb CO2.
 * **Teaching Assistant**, State Key Laboratory of Coal Combustion, HUST 
-  * versaw the experimental teaching, tutoring, Q&A and marking of engineering thermodynamics courses, serving over 50 students.
+  * Oversaw the experimental teaching, tutoring, Q&A and marking of engineering thermodynamics courses, serving over 50 students.
 
 
