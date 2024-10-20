@@ -53,7 +53,17 @@ Skills and Hobbies:
   * **Various ball games：** badminton：
 
 
+# Awards:
 
+| Time | Items                                                        |
+| :--: | :----------------------------------------------------------- |
+| 2023 | 2nd  Zero carbon future innovation competition "Excellence Award" (16  out of 124) |
+| 2022 | Excellent  postgraduate of Huazhong University of Science and Technology (37 out of 216) |
+| 2022 | Weichai Power scholarship (**Top 1 in 216 students**)        |
+| 2022 | First-class  scholarship of Huazhong University of Science and Technology (Top 10%) |
+| 2021 | Midea  scholarship (**Top 1 in 216 students**)               |
+| 2021 | First-class  scholarship of Huazhong University of Science and Technology (Top 10%) |
+| 2021 | National  outstanding undergraduate thesis of energy and power major 2021 (**China's highest undergraduate thesis  honor in this field**) |
 
 
 Social Experience
