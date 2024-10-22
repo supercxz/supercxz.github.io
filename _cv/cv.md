@@ -57,7 +57,7 @@ Skills and Hobbies:
 
 | Time | Items                                                        |
 | :--: | :----------------------------------------------------------- |
-| 2024 | Three Good Students (student of the Year) **(1/30 students)** |
+| 2024 | Merit Student **(1/30 students)** |
 | 2023 | Outstanding Student Cadre (Top 5%)  |
 | 2022 | Virtue Scholarship, NNU **(Top 1%)**  |
 | 2022 | First-class  scholarship of Huazhong University of Science and Technology (Top 10%) |
